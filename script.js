@@ -1,5 +1,5 @@
 'use strict';
-//MY PROJECT
+//MY PROJECT...
 //Random number in secret number
 let secretNumber = Math.trunc(Math.random() * 20) + 1;
 let score = 20;
